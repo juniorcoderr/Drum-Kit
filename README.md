@@ -15,4 +15,4 @@
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork this repository, open issues, and submit pull requests to enhance the Drum Kit.
+Contributions are welcome! Feel free to fork this repository, open issues, and submit pull requests to enhance the Drum Machine.
